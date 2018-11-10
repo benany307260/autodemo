@@ -10,6 +10,10 @@ import org.springframework.stereotype.Service;
 import com.bentest.autodemo.entity.UserInfo;
 import com.bentest.autodemo.jpa.repository.UserInfoRepository;
 
+/**
+ * 用户service
+ *
+ */
 @Service
 public class UserInfoService {
 	
